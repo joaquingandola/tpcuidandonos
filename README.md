@@ -1,3 +1,6 @@
+Integrantes: Joaquin Gandola y Mateo Igon
+
+
 calcularDemora(origen: Direccion, destino: Direccion, paradas: [Parada]){
 
 var int tiempoDemoraTotal = calcularDemora(origen, paradas.get(0).getDireccion());
